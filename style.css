@@ -1,0 +1,253 @@
+
+#mainDiv{
+    height: min-content;
+    width: 100%;
+    font-size: smaller;
+    font-family: sans-serif;
+    background-color: antiquewhite;
+    margin-top: -1%;
+    margin-left: -1%;
+    margin-right: -7px;
+    
+}
+.fixedPosition{
+    margin-top: -156px;
+width: 1353px;
+height: 150px;
+position: fixed;
+z-index: 1;
+}
+.topLocationPortion{
+    padding-top: 6px;
+    padding-left: 438px;
+    height: 50px;
+    width: 1044px;
+    background-color: white;
+}
+.topMainPortion{
+    height: 100px;
+    width: 1353px;
+    background-color: white;
+}
+.startOrder{
+    margin-top: 154px;
+    padding-left: 287px;
+    padding-top: 10px;
+    height: 67px;
+    width: 80%;
+    background-color: rgb(33, 34, 30);
+}
+.imagePortion{
+    width: 1353px;
+    height: 445px;
+}
+.categoriesPortion{
+    margin-top: -24px;
+height: 800px;
+width: 1353px;
+background-color: white;
+}
+.bottomPortion{
+    height: min-content;
+    
+    width: 1353px;
+    background-color:#202124;
+}
+.viewDeals{
+    float: left;
+    border-radius: 10px;
+    margin-left: 49px;
+    margin-top: 32px;
+    width: 266px;
+    height: 353px;
+}
+.bucket-portion{
+    float: left;
+    width: 65px;
+    height: 244px;
+    background-color: #202124;
+}
+#bucket{
+    
+    width: 63px;
+    height: 59px;
+}
+.viewDealsPortion{
+    width: 1353px;
+    height: 589px;
+    background-color: #202124;
+}
+
+.tablePortion{
+    float: left;
+    margin-left: 60px;
+    line-height: 39px;
+    font-size: 14px;
+    font-style: normal;
+    float: left;
+    width: 584px;
+    height: 243px;
+    background-color: #202124;
+}
+#table{
+    float: left;
+    color: aliceblue;
+}
+#locationImage{
+    float: left;
+    height: 25px;
+    margin-top: 17px;
+    margin-left: 14px;
+}
+
+#startOrderButton{
+float: left;
+font-size: 15px;
+border: aliceblue;
+margin-top: 7px;
+margin-left: 18px;
+background-color: #e4002b;
+color: white;
+width: 152px;
+height: 45px;
+border-radius: 34px;
+}
+#imagePlaystore{
+    border-radius: 10px;
+    height: 189px;
+    margin-left: 75px;
+    margin-top: 25px;
+}
+.kfc{
+position: absolute;
+left: 0px;
+width: 100px;
+}
+.menu{
+    margin-top: 23px;
+    color: black;
+    position: absolute;
+    left: 301px;
+    width: 100px;
+}
+.signIn{
+    color: black;
+    position: absolute;
+    left: 1050px;
+    top: 78px;
+    width: 100px;
+}
+.wallet{
+    margin-top: 42px;
+    width: 100px;
+    position: absolute;
+    left: 1142px;
+    top: 45px;
+}
+.browseCategories{
+    padding-top: 56px;
+    padding-left: 143px;
+    width: 1211px;
+    height: 176px;
+}
+.options{
+    height: 243px;
+    width: 201px;
+    background-color: #f3f7f2;
+    margin-left: 117px;
+    margin-bottom: 25px;
+}
+.redBox{
+    margin-left: 17px;
+    float: left;
+    width: 20px;
+    height: 46px;
+    background-color: rgb(228, 0, 43);
+}
+#redBoxPortion{
+    padding-left: 182px;
+    width: 1169px;
+    height: 100px;
+    background-color: #202124;
+}
+.imageCategories{
+    height: 190px;
+    width: 201px;
+}
+.optionsName{
+    font-size: medium;
+    margin-left: 38px;
+    margin-top: 11px;
+    font-family: fantasy;
+    font-weight: 200;
+}
+ul{
+    color: white;
+    list-style: none;
+    line-height: 32px;
+}
+.bottom2ndPortion{
+width: 1352px;
+background-color:#202124 ;
+}
+.bottom-last-portion{
+    width: 1353px;
+    height: 244px;
+    background-color: #202124;
+}
+.bottom-content-portion{
+    height: 244px;
+    width: 1210px;
+    position: relative;
+    left: 100px;
+   background-color: #202124;
+}
+.list-portion{
+padding-left: 70px;
+height: 244px;
+width: 716px;
+background-color: #202124;
+display: inline-block;
+margin-top: -20px;
+}
+.find-kfc{
+    position: relative;
+    top: -125px;
+    display: inline-block;
+    width: 97px;
+    height: 144px;
+    background-color: #202124;
+}
+.find-kfc a{
+    color:white ;
+}
+.play-store-portion{
+    position: relative;
+    display: inline-block;
+    height: 119px;
+    width: 295px;
+    background-color: #202124;
+    top: -94px;
+    left: 16px;
+}
+footer{
+    height: 70px;
+    width: 1353px;
+    background-color: #202124;
+    margin-bottom: -4px;
+}
+.social-media{
+    height: 35px;
+    background-color: #202124;
+    display: inline-block;
+    position: relative;
+    top: -34px;
+    left: 230px;
+}
+.copy-right{
+    width: 874px;
+    background-color: #202124;
+    height: 70px;
+    display: inline-block;
+
+}
